@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @TrevorHarless
-- 👀 I’m interested in backend web development
-- 🌱 I’m currently learning Django/Python
 - 📫 How to reach me: tgharles@ncsu.edu
 
 <!---

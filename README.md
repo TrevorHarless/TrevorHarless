@@ -2,7 +2,7 @@
 - 📫 How to reach me: tgharles@ncsu.edu
 
 
-- Current Project: Webscraping with Python
+- Current Project: 
 
 <!---
 TrevorHarless/TrevorHarless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

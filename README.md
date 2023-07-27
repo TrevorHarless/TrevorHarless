@@ -2,7 +2,7 @@
 - 📫 How to reach me: tgharles@ncsu.edu
 
 
-- Current Project: 
+- Current Project: Aim Workshop in Python
 
 <!---
 TrevorHarless/TrevorHarless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

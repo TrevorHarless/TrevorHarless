@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TrevorHarless
-- 📫 How to reach me: tgharles@ncsu.edu
+- Hi, I’m @TrevorHarless, this account is for posting projects from my main account on GitHub Enterprise.
+- How to reach me: tgharles@ncsu.edu
 
 
 - Current Project: Aim Workshop in Python

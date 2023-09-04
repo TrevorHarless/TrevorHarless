@@ -2,7 +2,7 @@
 - Feel free to contact me @tgharles@ncsu.edu
 
 
-- Current Project: Aim Workshop in Python
+- Current Project: Finance Dashboard
 
 <!---
 TrevorHarless/TrevorHarless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

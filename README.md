@@ -1,4 +1,4 @@
-- Hi, I’m @TrevorHarless, this account is for posting projects from my main account on GitHub Enterprise.
+- Hi, I’m @TrevorHarless, this account is for posting projects from my school account located on GitHub Enterprise.
 - Feel free to contact me @tgharles@ncsu.edu
 
 

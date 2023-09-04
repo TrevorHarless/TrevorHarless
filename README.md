@@ -1,5 +1,5 @@
 - Hi, I’m @TrevorHarless, this account is for posting projects from my school account located on GitHub Enterprise.
-- Feel free to contact me @tgharles@ncsu.edu or connect with me on LinkedIn!
+- Feel free to contact me @tgharles@ncsu.edu or connect with me on LinkedIn located in my bio!
 
 
 - Current Project: Finance Dashboard

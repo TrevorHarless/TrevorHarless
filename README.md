@@ -2,7 +2,7 @@
 - Feel free to contact me @tgharles@ncsu.edu or connect with me on LinkedIn located in my bio!
 
 
-- Current Project: Climb Track -- Rock Climbing Dashboard
+- Current Project: Lights app -- CRM and light mockup creation for holiday light installation companies
 
 <!---
 TrevorHarless/TrevorHarless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

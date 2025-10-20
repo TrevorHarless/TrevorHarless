@@ -1,5 +1,5 @@
 - Hi, I’m @TrevorHarless, this account is for posting projects from my school account located on GitHub Enterprise and for managing my personal projects.
-- Feel free to contact me @tgharles@ncsu.edu or connect with me on LinkedIn located in my bio!
+- Feel free to contact me @trevorharless.dev@gmail.com or connect with me on LinkedIn located in my bio!
 
 
 - Current Project: Lights app -- CRM and light mockup creation for holiday light installation companies
